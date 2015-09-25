@@ -4,7 +4,7 @@
 [![Documentation Status](https://readthedocs.org/projects/jupyter/badge/?version=latest)](http://jupyter.readthedocs.org/en/latest/?badge=latest)
 [Repo](https://github.com/jupyter/jupyter)
 
-##### User interfaces and interactions
+##### *User interfaces and interactions*
 
 ### Jupyter Notebook
 [![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/jupyter)
