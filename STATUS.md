@@ -22,7 +22,7 @@
 [![Documentation Status](https://readthedocs.org/projects/qtconsole/badge/?version=latest)](http://qtconsole.readthedocs.org/en/latest/?badge=latest)
 [Repo](https://github.com/jupyter/qtconsole) | [Rendered Docs as site](http://jupyter.org/qtconsole/stable/)
 
-##### Kernels
+##### *Kernels*
 
 ### IPython
 [![Build Status](https://travis-ci.org/ipython/ipython.svg?branch=master)](https://travis-ci.org/ipython/ipython)
@@ -30,29 +30,28 @@
 [Repo](https://github.com/ipython/ipython) | [Rendered Docs as site](https://ipython.org/documentation.html)
 
 ### ipywidgets
-[![Build Status](https://travis-ci.org/jupyter/jupyter_console.svg?branch=master)](https://travis-ci.org/jupyter/jupyter_console)
+[![Build Status](https://travis-ci.org/ipython/ipywidgets.svg?branch=master)](https://travis-ci.org/ipython/ipywidgets)
 [![Documentation Status](https://readthedocs.org/projects/ipywidgets/badge/?version=latest)](http://ipywidgets.readthedocs.org/en/latest/?badge=latest)
 [Repo](https://github.com/ipython/ipywidgets) | [Documentation N/A](https://github.com/ipython/ipywidgets)
 
 ### ipyparallel
- <http://ipyparallel.readthedocs.org/en/latest/>`__
-        `Documentation <https://ipyparallel.readthedocs.org/en/latest/>`__ |
-        `Repo <https://github.com/ipython/ipyparallel>`__
+[![Build Status](https://travis-ci.org/ipython/ipyparallel.svg?branch=master)](https://travis-ci.org/ipython/ipyparallel)
+[![Documentation Status](https://readthedocs.org/projects/ipyparallel/badge/?version=latest)](http://ipyparallel.readthedocs.org/en/latest/?badge=latest)
+[Repo](https://github.com/ipython/ipyparallel)
 
-##### Formatting and conversion
+##### *Formatting and conversion*
 
 ### nbconvert
- <http://nbconvert.readthedocs.org/en/latest/>`__
-        `Documentation <http://nbconvert.readthedocs.org/en/latest/>`__ |
-        `Repo <https://github.com/jupyter/nbconvert>`__
+[![Build Status](https://travis-ci.org/jupyter/nbconvert.svg?branch=master)](https://travis-ci.org/jupyter/nbconvert)
+[![Documentation Status](https://readthedocs.org/projects/nbconvert/badge/?version=latest)](http://nbconvert.readthedocs.org/en/latest/?badge=latest)
+[Repo](https://github.com/jupyter/nbconvert)
 
 ### nbformat
- <http://nbformat.readthedocs.org/en/latest/>`__
-        `Documentation <https://nbformat.readthedocs.org/en/latest/>`__ |
-        `Repo <https://github.com/jupyter/nbformat>`__
+[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
+[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
+[Repo](https://github.com/jupyter/nbformat)
 
-
-###### Education
+###### *Education*
 
 ### nbgrader
  <http://nbgrader.readthedocs.org/en/stable/>`__
@@ -60,7 +59,7 @@
         `Repo <https://github.com/jupyter/nbgrader>`__
 
 
-###### Deployment
+###### *Deployment*
 
 ### jupyterhub <https://github.com/jupyter/jupyterhub>`__
         Multi-user notebook for organizations with plugglable authentication
@@ -99,7 +98,7 @@
         `Repo <https://github.com/jupyter/docker-stacks>`__
 
 
-##### Architecture
+##### *Architecture*
 
 ### jupyter_client <http://jupyter-client.readthedocs.org/en/latest/>`__
         `Documentation <http://jupyter-client.readthedocs.org/en/latest/>`__ |
@@ -110,5 +109,5 @@
         `Documentation <http://jupyter-core.readthedocs.org/en/latest/>`__ |
         `Repo <https://github.com/jupyter/jupyter_core>`__
 
-##### More Kernels, incubator projects, third party maintained projects
+##### *More Kernels, incubator projects, third party maintained projects*
 [Jupyter kernels](https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages)
