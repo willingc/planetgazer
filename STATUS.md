@@ -110,5 +110,5 @@
         `Documentation <http://jupyter-core.readthedocs.org/en/latest/>`__ |
         `Repo <https://github.com/jupyter/jupyter_core>`__
 
-## More Kernels, incubator projects, third party maintained projects
+##### More Kernels, incubator projects, third party maintained projects
 [Jupyter kernels](https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages)
