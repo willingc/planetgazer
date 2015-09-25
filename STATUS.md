@@ -17,19 +17,19 @@
 ### [Jupyter QtConsole](https://github.com/jupyter/qtconsole)
 [![Build Status](https://travis-ci.org/jupyter/qtconsole.svg?branch=master)](https://travis-ci.org/jupyter/qtconsole)
 [![Documentation Status](https://readthedocs.org/projects/qtconsole/badge/?version=latest)](http://qtconsole.readthedocs.org/en/latest/?badge=latest)
-[Rendered Docs as website](http://jupyter.org/qtconsole/stable/)
+[Documentation website - differs from RTD](http://jupyter.org/qtconsole/stable/)
 
 ##### *Kernels*
 
 ### [IPython](https://github.com/ipython/ipython)
 [![Build Status](https://travis-ci.org/ipython/ipython.svg?branch=master)](https://travis-ci.org/ipython/ipython)
 [![Documentation Status](https://readthedocs.org/projects/ipython/badge/?version=latest)](http://ipython.readthedocs.org/en/latest/?badge=latest)
-[Rendered docs website](https://ipython.org/documentation.html)
+[Documentation website - differs from RTD](https://ipython.org/documentation.html)
 
 ### [ipywidgets](https://github.com/ipython/ipywidgets)
 [![Build Status](https://travis-ci.org/ipython/ipywidgets.svg?branch=master)](https://travis-ci.org/ipython/ipywidgets)
 [![Documentation Status](https://readthedocs.org/projects/ipywidgets/badge/?version=latest)](http://ipywidgets.readthedocs.org/en/latest/?badge=latest)
-[Documentation N/A](https://github.com/ipython/ipywidgets)
+[Documentation - see examples in repo](https://github.com/ipython/ipywidgets)
 
 ### [ipyparallel](https://github.com/ipython/ipyparallel)
 [![Build Status](https://travis-ci.org/ipython/ipyparallel.svg?branch=master)](https://travis-ci.org/ipython/ipyparallel)
