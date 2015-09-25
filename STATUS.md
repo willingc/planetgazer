@@ -18,15 +18,9 @@ Repo <https://github.com/jupyter/jupyter_console>
 [![Build Status](https://travis-ci.org/jupyter/jupyter_console.svg?branch=master)](https://travis-ci.org/jupyter/jupyter_console)
 [![Documentation Status](https://readthedocs.org/projects/jupyter-console/badge/?version=latest)](http://jupyter-console.readthedocs.org/en/latest/?badge=latest)
 
-## Jupyter QtConsole
-
-Repo <https://github.com/jupyter/qtconsole>
-
+## Jupyter QtConsole [Repo](https://github.com/jupyter/qtconsole)  [Rendered Docs](ttp://jupyter.org/qtconsole/stable/)
 [![Build Status](https://travis-ci.org/jupyter/qtconsole.svg?branch=master)](https://travis-ci.org/jupyter/qtconsole)
 [![Documentation Status](https://readthedocs.org/projects/qtconsole/badge/?version=latest)](http://qtconsole.readthedocs.org/en/latest/?badge=latest)
-
-Documentation <http://jupyter.org/qtconsole/stable/>
-
 
 Kernels
 -------
