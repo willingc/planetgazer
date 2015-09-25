@@ -59,7 +59,7 @@
 [Documentation: see repo](https://github.com/jupyter/jupyterhub)
 
 ### [jupyter-drive](https://github.com/jupyter/jupyter-drive)
-[![Build Status](https://travis-ci.org/jupyter/jupyterdrive.svg?branch=master)](https://travis-ci.org/jupyter/jupyterdrive)
+[![Build Status](https://travis-ci.org/jupyter/jupyter-drive.svg?branch=master)](https://travis-ci.org/jupyter/jupyter-drive)
 [![Documentation Status](https://readthedocs.org/projects/jupyter-drive/badge/?version=latest)](http://jupyter-drive.readthedocs.org/en/latest/?badge=latest)
 [Documentation: see repo](https://github.com/jupyter/jupyter-drive)
 
@@ -81,14 +81,12 @@
 ### [dockerspawner](https://github.com/jupyter/dockerspawner)
 [![Build Status](https://travis-ci.org/jupyter/dockerspawner.svg?branch=master)](https://travis-ci.org/jupyter/dockerspawner)
 [![Documentation Status](https://readthedocs.org/projects/dockerspawner/badge/?version=latest)](http://dockerspawner.readthedocs.org/en/latest/?badge=latest)
-
-        `Documentation <https://github.com/jupyter/dockerspawner>`__ |
+[Documentation: see repo](https://github.com/jupyter/dockerspawner)
 
 ### [docker-stacks](https://github.com/jupyter/docker-stacks)
 [![Build Status](https://travis-ci.org/jupyter/docker-stacks.svg?branch=master)](https://travis-ci.org/jupyter/docker-stacks)
 [![Documentation Status](https://readthedocs.org/projects/docker-stacks/badge/?version=latest)](http://docker-stacks.readthedocs.org/en/latest/?badge=latest)
-
-        `Documentation <https://github.com/jupyter/docker-stacks>`__ |
+[Documentation: see repo](https://github.com/jupyter/docker-stacks)
 
 ##### *Architecture*
 
