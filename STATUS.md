@@ -17,19 +17,19 @@
 ### [Jupyter QtConsole](https://github.com/jupyter/qtconsole)
 [![Build Status](https://travis-ci.org/jupyter/qtconsole.svg?branch=master)](https://travis-ci.org/jupyter/qtconsole)
 [![Documentation Status](https://readthedocs.org/projects/qtconsole/badge/?version=latest)](http://qtconsole.readthedocs.org/en/latest/?badge=latest)
-[Documentation website - differs from RTD](http://jupyter.org/qtconsole/stable/)
+[Documentation: website other than RTD](http://jupyter.org/qtconsole/stable/)
 
 ##### *Kernels*
 
 ### [IPython](https://github.com/ipython/ipython)
 [![Build Status](https://travis-ci.org/ipython/ipython.svg?branch=master)](https://travis-ci.org/ipython/ipython)
 [![Documentation Status](https://readthedocs.org/projects/ipython/badge/?version=latest)](http://ipython.readthedocs.org/en/latest/?badge=latest)
-[Documentation website - differs from RTD](https://ipython.org/documentation.html)
+[Documentation: website other than RTD](https://ipython.org/documentation.html)
 
 ### [ipywidgets](https://github.com/ipython/ipywidgets)
 [![Build Status](https://travis-ci.org/ipython/ipywidgets.svg?branch=master)](https://travis-ci.org/ipython/ipywidgets)
 [![Documentation Status](https://readthedocs.org/projects/ipywidgets/badge/?version=latest)](http://ipywidgets.readthedocs.org/en/latest/?badge=latest)
-[Documentation - see examples in repo](https://github.com/ipython/ipywidgets)
+[Documentation: see examples in repo](https://github.com/ipython/ipywidgets)
 
 ### [ipyparallel](https://github.com/ipython/ipyparallel)
 [![Build Status](https://travis-ci.org/ipython/ipyparallel.svg?branch=master)](https://travis-ci.org/ipython/ipyparallel)
@@ -56,84 +56,49 @@
 ### [jupyterhub](https://github.com/jupyter/jupyterhub)
 [![Build Status](https://travis-ci.org/jupyter/jupyterhub.svg?branch=master)](https://travis-ci.org/jupyter/jupyterhub)
 [![Documentation Status](https://readthedocs.org/projects/jupyterhub/badge/?version=latest)](http://jupyterhub.readthedocs.org/en/latest/?badge=latest)
-[Docs in repo](https://github.com/jupyter/jupyterhub)
+[Documentation: see repo](https://github.com/jupyter/jupyterhub)
 
 ### [jupyter-drive](https://github.com/jupyter/jupyter-drive)
 [![Build Status](https://travis-ci.org/jupyter/jupyter-drive.svg?branch=master)](https://travis-ci.org/jupyter/jupyter-drive)
 [![Documentation Status](https://readthedocs.org/projects/jupyter-drive/badge/?version=latest)](http://jupyter-drive.readthedocs.org/en/latest/?badge=latest)
-[Docs in repo](https://github.com/jupyter/jupyter-drive)
+[Documentation: see repo](https://github.com/jupyter/jupyter-drive)
 
-### nbviewer
-[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
-[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/nbformat)
+### [nbviewer](https://github.com/jupyter/nbviewer)
+[![Build Status](https://travis-ci.org/jupyter/nbviewer.svg?branch=master)](https://travis-ci.org/jupyter/nbviewer)
+[![Documentation Status](https://readthedocs.org/projects/nbviewer/badge/?version=latest)](http://nbviewer.readthedocs.org/en/latest/?badge=latest)
+[Documentation: see repo](https://github.com/jupyter/nbviewer)
 
- <http://nbviewer.ipython.org/>`__
-        Share notebooks as static HTML on the web.
-        `Documentation <https://github.com/jupyter/nbviewer>`__ |
-        `Repo <https://github.com/jupyter/nbviewer>`__
+### [tmpnb](https://github.com/jupyter/tmpnb>)
+[![Build Status](https://travis-ci.org/jupyter/tmpnb.svg?branch=master)](https://travis-ci.org/jupyter/tmpnb)
+[![Documentation Status](https://readthedocs.org/projects/tmpnb/badge/?version=latest)](http://tmpnb.readthedocs.org/en/latest/?badge=latest)
+[Documentation: see repo](https://github.com/jupyter/tmpnb)
 
-### tmpnb
-[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
-[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/nbformat)
+### [tmpnb-deploy](https://github.com/jupyter/tmpnb-deploy)
+[![Build Status](https://travis-ci.org/jupyter/tmpnb-deploy.svg?branch=master)](https://travis-ci.org/jupyter/tmpnb-deploy)
+[![Documentation Status](https://readthedocs.org/projects/tmpnb-deploy/badge/?version=latest)](http://tmpnb-deploy.readthedocs.org/en/latest/?badge=latest)
+[Documentation: see repo](https://github.com/jupyter/tmpnb-deploy)
 
- <https://github.com/jupyter/tmpnb>`__
-        Create temporary, transient notebooks in the cloud.
-        `Documentation <https://github.com/jupyter/tmpnb>`__ |
-        `Repo <https://github.com/jupyter/tmpnb>`__
+### [dockerspawner](https://github.com/jupyter/dockerspawner)
+[![Build Status](https://travis-ci.org/jupyter/dockerspawner.svg?branch=master)](https://travis-ci.org/jupyter/dockerspawner)
+[![Documentation Status](https://readthedocs.org/projects/dockerspawner/badge/?version=latest)](http://dockerspawner.readthedocs.org/en/latest/?badge=latest)
 
-### tmpnb-deploy
-[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
-[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/nbformat)
-
- <https://github.com/jupyter/tmpnb-deploy>`__
-        Deployment tools for tmpnb.
-        `Documentation <https://github.com/jupyter/tmpnb-deploy>`__ |
-        `Repo <https://github.com/jupyter/tmpnb-deploy>`__
-
-### dockerspawner
-[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
-[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/nbformat)
-
- <https://github.com/jupyter/dockerspawner>`__
-        Deploy notebooks for 'jupyterhub' inside Docker containers.
         `Documentation <https://github.com/jupyter/dockerspawner>`__ |
-        `Repo <https://github.com/jupyter/dockerspawner>`__
 
-### docker-stacks
-[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
-[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/nbformat)
+### [docker-stacks](https://github.com/jupyter/docker-stacks)
+[![Build Status](https://travis-ci.org/jupyter/docker-stacks.svg?branch=master)](https://travis-ci.org/jupyter/docker-stacks)
+[![Documentation Status](https://readthedocs.org/projects/docker-stacks/badge/?version=latest)](http://docker-stacks.readthedocs.org/en/latest/?badge=latest)
 
- <https://github.com/jupyter/docker-stacks>`__
-        Stacks of Jupyter applications and kernels as Docker containers.
         `Documentation <https://github.com/jupyter/docker-stacks>`__ |
-        `Repo <https://github.com/jupyter/docker-stacks>`__
-
 
 ##### *Architecture*
 
-### jupyter_client
-[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
-[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/nbformat)
+### [jupyter_client](https://github.com/jupyter/jupyter_client)
+[![Build Status](https://travis-ci.org/jupyter/jupyter-client.svg?branch=master)](https://travis-ci.org/jupyter/jupyter-client)
+[![Documentation Status](https://readthedocs.org/projects/jupyter-client/badge/?version=latest)](http://jupyter-client.readthedocs.org/en/latest/?badge=latest)
 
- <http://jupyter-client.readthedocs.org/en/latest/>`__
-        `Documentation <http://jupyter-client.readthedocs.org/en/latest/>`__ |
-        `Repo <https://github.com/jupyter/jupyter_client>`__
-
-### jupyter_core
-[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
-[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/nbformat)
-
- <http://jupyter-core.readthedocs.org/en/latest/>`__
-        Core functionality and miscellaneous utilities.
-        `Documentation <http://jupyter-core.readthedocs.org/en/latest/>`__ |
-        `Repo <https://github.com/jupyter/jupyter_core>`__
+### [jupyter_core](https://github.com/jupyter/jupyter_core)
+[![Build Status](https://travis-ci.org/jupyter/jupyter-core.svg?branch=master)](https://travis-ci.org/jupyter/jupyter-core)
+[![Documentation Status](https://readthedocs.org/projects/jupyter-core/badge/?version=latest)](http://jupyter-core.readthedocs.org/en/latest/?badge=latest)
 
 ##### *More Kernels, incubator projects, third party maintained projects*
 [Jupyter kernels](https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages)
