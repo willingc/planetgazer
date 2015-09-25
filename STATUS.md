@@ -54,45 +54,73 @@
 ###### *Education*
 
 ### nbgrader
- <http://nbgrader.readthedocs.org/en/stable/>`__
-        `Documentation <http://nbgrader.readthedocs.org/en/stable/>`__ |
-        `Repo <https://github.com/jupyter/nbgrader>`__
-
+[![Build Status](https://travis-ci.org/jupyter/nbgrader.svg?branch=master)](https://travis-ci.org/jupyter/nbgrader)
+[![Documentation Status](https://readthedocs.org/projects/nbgrader/badge/?version=latest)](http://nbgrader.readthedocs.org/en/latest/?badge=latest)
+[Repo](https://github.com/jupyter/nbgrader)
 
 ###### *Deployment*
 
-### jupyterhub <https://github.com/jupyter/jupyterhub>`__
-        Multi-user notebook for organizations with plugglable authentication
-        and scalability.
-        `Documentation <https://github.com/jupyter/jupyterhub>`__ |
-        `Repo <https://github.com/jupyter/jupyterhub>`__
+### jupyterhub
+[![Build Status](https://travis-ci.org/jupyter/jupyterhub.svg?branch=master)](https://travis-ci.org/jupyter/jupyterhub)
+[![Documentation Status](https://readthedocs.org/projects/jupyterhub/badge/?version=latest)](http://jupyterhub.readthedocs.org/en/latest/?badge=latest)
+[Repo](https://github.com/jupyter/jupyterhub) | [Docs N/A](https://github.com/jupyter/jupyterhub)
 
-### jupyter-drive <https://github.com/jupyter/jupyter-drive>`__
+### jupyter-drive
+[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
+[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
+[Repo](https://github.com/jupyter/nbformat)
+
+ <https://github.com/jupyter/jupyter-drive>`__
         Store notebooks on Google Drive.
         `Documentation <https://github.com/jupyter/jupyter-drive>`__ |
         `Repo <https://github.com/jupyter/jupyter-drive>`__
 
-### nbviewer <http://nbviewer.ipython.org/>`__
+### nbviewer
+[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
+[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
+[Repo](https://github.com/jupyter/nbformat)
+
+ <http://nbviewer.ipython.org/>`__
         Share notebooks as static HTML on the web.
         `Documentation <https://github.com/jupyter/nbviewer>`__ |
         `Repo <https://github.com/jupyter/nbviewer>`__
 
-### tmpnb <https://github.com/jupyter/tmpnb>`__
+### tmpnb
+[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
+[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
+[Repo](https://github.com/jupyter/nbformat)
+
+ <https://github.com/jupyter/tmpnb>`__
         Create temporary, transient notebooks in the cloud.
         `Documentation <https://github.com/jupyter/tmpnb>`__ |
         `Repo <https://github.com/jupyter/tmpnb>`__
 
-### tmpnb-deploy <https://github.com/jupyter/tmpnb-deploy>`__
+### tmpnb-deploy
+[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
+[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
+[Repo](https://github.com/jupyter/nbformat)
+
+ <https://github.com/jupyter/tmpnb-deploy>`__
         Deployment tools for tmpnb.
         `Documentation <https://github.com/jupyter/tmpnb-deploy>`__ |
         `Repo <https://github.com/jupyter/tmpnb-deploy>`__
 
-### dockerspawner <https://github.com/jupyter/dockerspawner>`__
+### dockerspawner
+[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
+[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
+[Repo](https://github.com/jupyter/nbformat)
+
+ <https://github.com/jupyter/dockerspawner>`__
         Deploy notebooks for 'jupyterhub' inside Docker containers.
         `Documentation <https://github.com/jupyter/dockerspawner>`__ |
         `Repo <https://github.com/jupyter/dockerspawner>`__
 
-### docker-stacks <https://github.com/jupyter/docker-stacks>`__
+### docker-stacks
+[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
+[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
+[Repo](https://github.com/jupyter/nbformat)
+
+ <https://github.com/jupyter/docker-stacks>`__
         Stacks of Jupyter applications and kernels as Docker containers.
         `Documentation <https://github.com/jupyter/docker-stacks>`__ |
         `Repo <https://github.com/jupyter/docker-stacks>`__
@@ -100,11 +128,21 @@
 
 ##### *Architecture*
 
-### jupyter_client <http://jupyter-client.readthedocs.org/en/latest/>`__
+### jupyter_client
+[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
+[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
+[Repo](https://github.com/jupyter/nbformat)
+
+ <http://jupyter-client.readthedocs.org/en/latest/>`__
         `Documentation <http://jupyter-client.readthedocs.org/en/latest/>`__ |
         `Repo <https://github.com/jupyter/jupyter_client>`__
 
-### jupyter_core <http://jupyter-core.readthedocs.org/en/latest/>`__
+### jupyter_core
+[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
+[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
+[Repo](https://github.com/jupyter/nbformat)
+
+ <http://jupyter-core.readthedocs.org/en/latest/>`__
         Core functionality and miscellaneous utilities.
         `Documentation <http://jupyter-core.readthedocs.org/en/latest/>`__ |
         `Repo <https://github.com/jupyter/jupyter_core>`__
