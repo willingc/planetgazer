@@ -8,3 +8,6 @@ Travis build and Read The Docs build status for Jupyter and other related projec
 
 ## Screenshots
 
+![Status screenshot](/images/status_view.png "Status")
+
+![Status - compact view screenshot](/images/status_view_compact.png "Status - compact view")
