@@ -59,7 +59,7 @@
 [Documentation: see repo](https://github.com/jupyter/jupyterhub)
 
 ### [jupyter-drive](https://github.com/jupyter/jupyter-drive)
-[![Build Status](https://travis-ci.org/jupyter/jupyter-drive.svg?branch=master)](https://travis-ci.org/jupyter/jupyter-drive)
+[![Build Status](https://travis-ci.org/jupyter/jupyterdrive.svg?branch=master)](https://travis-ci.org/jupyter/jupyterdrive)
 [![Documentation Status](https://readthedocs.org/projects/jupyter-drive/badge/?version=latest)](http://jupyter-drive.readthedocs.org/en/latest/?badge=latest)
 [Documentation: see repo](https://github.com/jupyter/jupyter-drive)
 
@@ -93,11 +93,11 @@
 ##### *Architecture*
 
 ### [jupyter_client](https://github.com/jupyter/jupyter_client)
-[![Build Status](https://travis-ci.org/jupyter/jupyter-client.svg?branch=master)](https://travis-ci.org/jupyter/jupyter-client)
+[![Build Status](https://travis-ci.org/jupyter/jupyter_client.svg?branch=master)](https://travis-ci.org/jupyter/jupyter_client)
 [![Documentation Status](https://readthedocs.org/projects/jupyter-client/badge/?version=latest)](http://jupyter-client.readthedocs.org/en/latest/?badge=latest)
 
 ### [jupyter_core](https://github.com/jupyter/jupyter_core)
-[![Build Status](https://travis-ci.org/jupyter/jupyter-core.svg?branch=master)](https://travis-ci.org/jupyter/jupyter-core)
+[![Build Status](https://travis-ci.org/jupyter/jupyter_core.svg?branch=master)](https://travis-ci.org/jupyter/jupyter_core)
 [![Documentation Status](https://readthedocs.org/projects/jupyter-core/badge/?version=latest)](http://jupyter-core.readthedocs.org/en/latest/?badge=latest)
 
 ##### *More Kernels, incubator projects, third party maintained projects*
