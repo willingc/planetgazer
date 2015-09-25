@@ -1,10 +1,9 @@
-# Status page for Jupyter Developers and Maintainers
+# Status page for Jupyter Developers
 
 ## Jupyter
 [![Documentation Status](https://readthedocs.org/projects/jupyter/badge/?version=latest)](http://jupyter.readthedocs.org/en/latest/?badge=latest)
 [Repo](https://github.com/jupyter/jupyter)
 
-# Jupyter Subprojects
 ## User interfaces and interactions
 
 ### Jupyter Notebook
@@ -114,8 +113,5 @@
         `Documentation <http://jupyter-core.readthedocs.org/en/latest/>`__ |
         `Repo <https://github.com/jupyter/jupyter_core>`__
 
-
-# Projects maintained by third parties or incubator
-
-## More Kernels
+## More Kernels, incubator projects, third party maintained projects
 [Jupyter kernels](https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages)
