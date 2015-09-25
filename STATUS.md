@@ -1,79 +1,67 @@
 # Status page for Jupyter Developers
 
-## Jupyter
+## [Jupyter](https://github.com/jupyter/jupyter)
 [![Documentation Status](https://readthedocs.org/projects/jupyter/badge/?version=latest)](http://jupyter.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/jupyter)
 
 ##### *User interfaces and interactions*
 
-### Jupyter Notebook
+### [Jupyter Notebook](https://github.com/jupyter/notebook)
 [![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/jupyter)
 [![Build Status](https://travis-ci.org/jupyter/notebook.svg?branch=master)](https://travis-ci.org/jupyter/notebook)
 [![Documentation Status](https://readthedocs.org/projects/jupyter-notebook/badge/?version=latest)](http://jupyter-notebook.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/notebook)
 
-### Jupyter Console
+### [Jupyter Console](https://github.com/jupyter/jupyter_console)
 [![Build Status](https://travis-ci.org/jupyter/jupyter_console.svg?branch=master)](https://travis-ci.org/jupyter/jupyter_console)
 [![Documentation Status](https://readthedocs.org/projects/jupyter-console/badge/?version=latest)](http://jupyter-console.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/jupyter_console)
 
-### Jupyter QtConsole
+### [Jupyter QtConsole](https://github.com/jupyter/qtconsole)
 [![Build Status](https://travis-ci.org/jupyter/qtconsole.svg?branch=master)](https://travis-ci.org/jupyter/qtconsole)
 [![Documentation Status](https://readthedocs.org/projects/qtconsole/badge/?version=latest)](http://qtconsole.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/qtconsole) | [Rendered Docs as site](http://jupyter.org/qtconsole/stable/)
+[Rendered Docs as website](http://jupyter.org/qtconsole/stable/)
 
 ##### *Kernels*
 
-### IPython
+### [IPython](https://github.com/ipython/ipython)
 [![Build Status](https://travis-ci.org/ipython/ipython.svg?branch=master)](https://travis-ci.org/ipython/ipython)
 [![Documentation Status](https://readthedocs.org/projects/ipython/badge/?version=latest)](http://ipython.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/ipython/ipython) | [Rendered Docs as site](https://ipython.org/documentation.html)
+[Rendered docs website](https://ipython.org/documentation.html)
 
-### ipywidgets
+### [ipywidgets](https://github.com/ipython/ipywidgets)
 [![Build Status](https://travis-ci.org/ipython/ipywidgets.svg?branch=master)](https://travis-ci.org/ipython/ipywidgets)
 [![Documentation Status](https://readthedocs.org/projects/ipywidgets/badge/?version=latest)](http://ipywidgets.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/ipython/ipywidgets) | [Documentation N/A](https://github.com/ipython/ipywidgets)
+[Documentation N/A](https://github.com/ipython/ipywidgets)
 
-### ipyparallel
+### [ipyparallel](https://github.com/ipython/ipyparallel)
 [![Build Status](https://travis-ci.org/ipython/ipyparallel.svg?branch=master)](https://travis-ci.org/ipython/ipyparallel)
 [![Documentation Status](https://readthedocs.org/projects/ipyparallel/badge/?version=latest)](http://ipyparallel.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/ipython/ipyparallel)
 
 ##### *Formatting and conversion*
 
-### nbconvert
+### [nbconvert](https://github.com/jupyter/nbconvert)
 [![Build Status](https://travis-ci.org/jupyter/nbconvert.svg?branch=master)](https://travis-ci.org/jupyter/nbconvert)
 [![Documentation Status](https://readthedocs.org/projects/nbconvert/badge/?version=latest)](http://nbconvert.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/nbconvert)
 
-### nbformat
+### [nbformat](https://github.com/jupyter/nbformat)
 [![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
 [![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/nbformat)
 
 ###### *Education*
 
-### nbgrader
+### [nbgrader](https://github.com/jupyter/nbgrader)
 [![Build Status](https://travis-ci.org/jupyter/nbgrader.svg?branch=master)](https://travis-ci.org/jupyter/nbgrader)
 [![Documentation Status](https://readthedocs.org/projects/nbgrader/badge/?version=latest)](http://nbgrader.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/nbgrader)
 
 ###### *Deployment*
 
-### jupyterhub
+### [jupyterhub](https://github.com/jupyter/jupyterhub)
 [![Build Status](https://travis-ci.org/jupyter/jupyterhub.svg?branch=master)](https://travis-ci.org/jupyter/jupyterhub)
 [![Documentation Status](https://readthedocs.org/projects/jupyterhub/badge/?version=latest)](http://jupyterhub.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/jupyterhub) | [Docs N/A](https://github.com/jupyter/jupyterhub)
+[Docs in repo](https://github.com/jupyter/jupyterhub)
 
-### jupyter-drive
-[![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
-[![Documentation Status](https://readthedocs.org/projects/nbformat/badge/?version=latest)](http://nbformat.readthedocs.org/en/latest/?badge=latest)
-[Repo](https://github.com/jupyter/nbformat)
-
- <https://github.com/jupyter/jupyter-drive>`__
-        Store notebooks on Google Drive.
-        `Documentation <https://github.com/jupyter/jupyter-drive>`__ |
-        `Repo <https://github.com/jupyter/jupyter-drive>`__
+### [jupyter-drive](https://github.com/jupyter/jupyter-drive)
+[![Build Status](https://travis-ci.org/jupyter/jupyter-drive.svg?branch=master)](https://travis-ci.org/jupyter/jupyter-drive)
+[![Documentation Status](https://readthedocs.org/projects/jupyter-drive/badge/?version=latest)](http://jupyter-drive.readthedocs.org/en/latest/?badge=latest)
+[Docs in repo](https://github.com/jupyter/jupyter-drive)
 
 ### nbviewer
 [![Build Status](https://travis-ci.org/jupyter/nbformat.svg?branch=master)](https://travis-ci.org/jupyter/nbformat)
