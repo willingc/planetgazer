@@ -1,24 +1,22 @@
 # Status badges
 
 ## Jupyter
-
 [![Documentation Status](https://readthedocs.org/projects/jupyter/badge/?version=latest)](http://jupyter.readthedocs.org/en/latest/?badge=latest)
 
 ## Jupyter Notebook
-
-Repo <https://github.com/jupyter/notebook>
+[Repo](https://github.com/jupyter/notebook)
 [![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/jupyter)
 [![Build Status](https://travis-ci.org/jupyter/notebook.svg?branch=master)](https://travis-ci.org/jupyter/notebook)
 [![Documentation Status](https://readthedocs.org/projects/jupyter-notebook/badge/?version=latest)](http://jupyter-notebook.readthedocs.org/en/latest/?badge=latest)
 
 ## Jupyter Console
-
-Repo <https://github.com/jupyter/jupyter_console>
-
+[Repo](https://github.com/jupyter/jupyter_console)
 [![Build Status](https://travis-ci.org/jupyter/jupyter_console.svg?branch=master)](https://travis-ci.org/jupyter/jupyter_console)
 [![Documentation Status](https://readthedocs.org/projects/jupyter-console/badge/?version=latest)](http://jupyter-console.readthedocs.org/en/latest/?badge=latest)
 
-## Jupyter QtConsole [Repo](https://github.com/jupyter/qtconsole)  [Rendered Docs](ttp://jupyter.org/qtconsole/stable/)
+## Jupyter QtConsole
+[Repo](https://github.com/jupyter/qtconsole)
+[Rendered Docs](http://jupyter.org/qtconsole/stable/)
 [![Build Status](https://travis-ci.org/jupyter/qtconsole.svg?branch=master)](https://travis-ci.org/jupyter/qtconsole)
 [![Documentation Status](https://readthedocs.org/projects/qtconsole/badge/?version=latest)](http://qtconsole.readthedocs.org/en/latest/?badge=latest)
 
